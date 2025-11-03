@@ -7,7 +7,7 @@ Teaching high school students for close to a few decades(!):
 - **AP Computer Science A** - Advanced Java programming and object-oriented design
 - **AP Computer Science Principles** - Snap! and Python using the BJC curriculum - a little higher-order function action and chunk of fun.
 - **Electronics Workshop** - Hands-on learning in:
-  - ElectronicCircuit design and analysis
+  - Electronic Circuit design and analysis
   - Microcontroller programming - go Xiao!
   - 3D printing and CAD design via Fusion
   - Laser cutting and digital fabrication
