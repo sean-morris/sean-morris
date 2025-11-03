@@ -19,12 +19,14 @@ Working with a dedicated team to advance data science education in California by
 - Developing resources for data science courses
 - Building partnerships with universities and community colleges around the country to leverage the Jupyter ecosystem in education.
 
-#### **JupyterHub Implementation Specialist** | National Network
+#### **JupyterHub Implementation Support** | National Networking
 Empowering educators nationwide to adopt computational teaching tools:
 - Providing support for JupyterHub deployments
 - Training college instructors on cloud-based teaching platforms
 - Facilitating the integration of interactive computing in curriculum
 
+#### **Automatic Grading with otter-grader** | National Networking
+- Developped and Support an online grading system for Jupyter Notebooks configured with otter-grader
 ---
 
 ### Knowing a little about a lot
