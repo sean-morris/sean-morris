@@ -26,7 +26,7 @@ Empowering educators nationwide to adopt computational teaching tools:
 - Facilitating the integration of interactive computing in curriculum
 
 #### **Automatic Grading with otter-grader** | National Networking
-- Developped and Support an online grading system for Jupyter Notebooks configured with otter-grader
+- Developed and support an online grading system for Jupyter Notebooks configured with otter-grader
 ---
 
 ### Knowing a little about a lot
